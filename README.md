@@ -126,8 +126,8 @@ void dispose() { _controller?.dispose(); super.dispose(); }
 
 ## 🖼️ Screenshots
 
-| List | Details | Maps |
-|---|---|---|
+| Onboarding | List | Details | Maps |
+|---|---|---|---|
 | ![onboarding](screenshots/onboarding.png) | ![list](screenshots/list.png) | ![details](screenshots/details.png) | ![maps](screenshots/maps.png) |
 
 
