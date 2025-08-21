@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143994695294",
+    "project_id": "car-rental-wandidev",
+    "storage_bucket": "car-rental-wandidev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143994695294:android:fe4baf3152eceb4791f22f",
+        "android_client_info": {
+          "package_name": "com.wandidev.car_rental_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaUWD949SgWtlVJa3iwHVRYyUUQndRgGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
